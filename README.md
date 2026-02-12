@@ -1,5 +1,5 @@
 # Aboutme.md
-- Currently learning Python
-- C#, LUA, HTML, CSS, SQL.
-- 16 Years
-- Masculine
+- Técnico em Desenvolvimento de Sistemas
+- C#
+- 16 Ano
+- Masculino
